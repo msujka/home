@@ -10,6 +10,7 @@ body {
   text-align: left;
   width: 150px;
   font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
+  font-size: 16px;
 }
 
 #menu .title {
@@ -22,6 +23,8 @@ body {
 }
 
 #menu li {
+  margin: 5;
+  padding: 0;
 }
 
 #menu li a {
@@ -56,7 +59,7 @@ body {
 }
 
 #content .byline, #content .byline a, #content .note {
-  font-size: 10px;
+  font-size: 14px;
   color: #aaa;
 }
 
