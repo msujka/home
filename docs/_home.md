@@ -1,5 +1,5 @@
 # Hi | Cześć
-I'm Michal Sujka, a husband, a father, and a builder. I love to build things for others to enjoy. Computer code is the tool I am most competent with, but I have also built things in the physical world (ask me about the time I built a kitchen for my wife if you are looking for a great conversation starter). 
+I'm Michał Sujka, a husband, a father, and a builder. I love to build things for others to enjoy. Computer code is the tool I am most competent with, but I have also built things in the physical world (ask me about the time I built a kitchen for my wife if you are looking for a great conversation starter). 
 
 # Background
 ## Personal
