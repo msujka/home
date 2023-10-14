@@ -13,6 +13,14 @@ My journey at Bloomberg has been an intense learning experience, providing first
 
 It remains DAY ONE.
 
+## Running and Reading
+
+> “The keys to life are running and reading. When you're running, there's a little person that talks to you and says, "Oh I'm tired. My lung's about to pop. I'm so hurt. There's no way I can possibly continue." You want to quit. If you learn how to defeat that person when you're running. You will learn how to not quit when things get hard in your life. For reading: there have been gazillions of people that have lived before all of us. There's no new problem you could have--with your parents, with school, with a bully. There's no new problem that someone hasn't already had and written about it in a book.”
+― Will Smith
+
+I love running and enjoy reading [books](bookshelf), blogs, newspapers, transcripts, annual reports, letters, memos, blogs.
+
+
 
 # Contact
 You can find me on LinkedIn [@MichalSujka](https://www.linkedin.com/in/michalsujka/) and Twitter [@MichalSujka](https://twitter.com/MichalSujka). I am open to connect with everyone so feel free to reach out!
