@@ -65,6 +65,7 @@ Below is a list of books I have around the house. Some I read multiple times, so
 * Confidence Game: How Hedge Fund Manager Bill Ackman Called Wall Street's Bluff by Christine S. Richard
 * What I Know for Sure by Oprah Winfrey
 * Banking On It: How I Disrupted an Industry by Anne Boden 
+* Bloomberg by Bloomberg by Michael R. Bloomberg
 * Michael O'Leary: Turbulent Times for the Man Who Made Ryanair by Matt Cooper 
 
 ## Money, How The World Works
