@@ -1,7 +1,7 @@
 # Bookshelf
 Below is a list of books I have around the house. Some I read multiple times, some I read once, some I only started, some I skim through, and some I have not read yet.
 
-## Business, Biographies, and Business Biographies
+## Business, Biographies, Business Biographies
 
 * The Snowball by Alice Schroeder
 * Creativity Inc. by Ed Catmull
@@ -67,7 +67,7 @@ Below is a list of books I have around the house. Some I read multiple times, so
 * Banking On It: How I Disrupted an Industry by Anne Boden 
 * Michael O'Leary: Turbulent Times for the Man Who Made Ryanair by Matt Cooper 
 
-## Money and How The World Works
+## Money, How The World Works
 * Bank 2.0: How customer behaviour and technology will change the future of financial services: How Customer Behavior and Technology Will Change the Future by Brett King
 * Bank 4.0: Banking everywhere, never at a bank by Brett King
 * Currency Wars by James Rickards
@@ -96,7 +96,7 @@ Below is a list of books I have around the house. Some I read multiple times, so
 * 21 Lessons for the 21st Century: Yuval Noah Harari by Yuval Noah Harari
 * Enlightenment Now: The Case for Reason, Science, Humanism, and Progress by Steven Pinker
 
-## Life, Work and Psychology
+## Life, Work, Psychology
 * Poor Charlie's Almanack by Charles T. Munger
 * How to Win Friends and Influence People by Dale Carnegie
 * Quiet: The power of introverts in a world that can't stop talking by Cain, Susan
@@ -135,7 +135,7 @@ Below is a list of books I have around the house. Some I read multiple times, so
 * Get Together: How to Build a Community With Your People by Bailey Richardson, Kevin Huynh, Kai Elmer Sotto
 * An Elegant Puzzle: Systems of Engineering Management by Will Larson
 
-## Money and Investing
+## Investing
 * Intelligent Investor: The Definitive Book on Value Investing - A Book of Practical Counsel by Graham, Benjamin
 * The Little Book That Builds Wealth: The Knock-out Formula for Finding Great Investments (Little Books. Big Profits) by Dorsey, Pat
 * The Little Book That Still Beats the Market: Your Safe Haven in Good Times or Bad (Little Books. Big Profits) by Joel Greenblatt
