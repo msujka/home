@@ -68,7 +68,8 @@ Below is a list of books I have around the house. Some I read multiple times, so
 * Bloomberg by Bloomberg by Michael R. Bloomberg
 * Michael O'Leary: Turbulent Times for the Man Who Made Ryanair by Matt Cooper 
 
-## Money, How The World Works
+## History, Economy, Money
+* Bull!: A History of the Boom and Bust, 1982-2004 by Maggie Mahar
 * Bank 2.0: How customer behaviour and technology will change the future of financial services: How Customer Behavior and Technology Will Change the Future by Brett King
 * Bank 4.0: Banking everywhere, never at a bank by Brett King
 * Currency Wars by James Rickards
