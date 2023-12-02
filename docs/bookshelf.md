@@ -2,7 +2,6 @@
 Below is a list of books I have around the house. Some I read multiple times, some I read once, some I only started, some I skimmed through, and some I have not read yet.
 
 ## Business, Biographies, Business Biographies
-
 * The Snowball by Alice Schroeder
 * Creativity Inc. by Ed Catmull
 * The Everything Store by Brad Stone
