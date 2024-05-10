@@ -31,6 +31,7 @@
 }
 
 .light,:root {
+  --Orange: #EF481B;
   --Light-Orange: #FFD180;
   --Pale-Orange: #FFB266;
   --Pastel-Orange: #FFA366;
@@ -41,7 +42,7 @@
   --Tangerine: #FFA500;
   --Carrot: #FFA07A;
   --Sunset-Orange: #FDAB9F;
-  --highlight: var(--Light-Orange);
+  --highlight: var(--Orange);
   --white: #fff;
   --black: #34495e;
   --black-light: #58585f;
@@ -114,18 +115,22 @@ code {
 
 .highlight {
   background-color: var(--highlight);
+  color: var(--light);
   border-radius: 5px;
+  padding: 0.2rem;
 }
 
 .hover {
   transition: all 0.3s ease;
   background-color: var(--highlight);
+  color: var(--light);
   border-radius: 5px;
 }
 
 a .hover {
   transition: all 0.3s ease;
   background-color: var(--highlight);
+  color: var(--light);
   border-radius: 5px;
 }
 
@@ -156,6 +161,8 @@ footer a {
 footer a:hover {
   transition: all 0.3s ease;
   background-color: var(--highlight);
+  color: var(--light);
+  padding: 0.2rem;
   border-radius: 5px;
 }
 
@@ -168,5 +175,6 @@ footer a:hover {
 .answer:hover {
   transition: all 1s ease;
   background-color: var(--highlight);
+  color: var(--light);
   border-radius: 10px;
 }
