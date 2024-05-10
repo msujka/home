@@ -118,6 +118,7 @@ code {
   color: var(--light);
   border-radius: 5px;
   padding: 0.2rem;
+  transition: all 1s ease;
 }
 
 .hover {

@@ -1,4 +1,6 @@
-let container = document.querySelector('#answer');
+let answer = document.querySelector('#answer');
+let highlight1 = document.querySelector('#highlight1');
+let highlight2 = document.querySelector('#highlight2');
 
 function isScrolledIntoView(elem) {
   var rect = elem.getBoundingClientRect();
@@ -11,7 +13,13 @@ function isScrolledIntoView(elem) {
 }
 
 window.addEventListener("scroll", function() {
-  if (isScrolledIntoView(container)) {
-    container.classList.add('inView');
+  if (isScrolledIntoView(answer)) {
+    answer.classList.add('inView');
+  }
+  if (isScrolledIntoView(highlight1)) {
+    highlight1.classList.add('highlight');
+  }
+  if (isScrolledIntoView(highlight2)) {
+    highlight2.classList.add('highlight');
   }
 });
