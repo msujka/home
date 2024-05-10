@@ -9,7 +9,7 @@
   --footer-height: 61px;
   --landing-page-max-width: 1200px;
   --sans: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
-  --serif: Tiempos,serif;
+  --serif: Source Serif Pro,serif;
   --mono: GT America Mono,Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace;
   --font-size-0: 8px;
   --font-size-1: 12px;
@@ -172,9 +172,10 @@ footer a:hover {
   text-align: center;
 }
 
-.answer:hover {
+.inView {
   transition: all 1s ease;
-  background-color: var(--highlight);
+  background-color: var(--highlight); /* New background color when visible */
   color: var(--light);
   border-radius: 10px;
 }
+
