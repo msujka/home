@@ -1,23 +1,23 @@
 # Hi | Cześć
-I'm Michał Sujka, a husband, a father, and a builder. I love to build things for others to enjoy. Computer code is the tool I am most competent with, but I have also built things in the physical world (ask me about the time I built a kitchen for my wife if you are looking for a great conversation starter). 
+I'm Michał, pronounced as Me-how.
 
-# Background
-## Personal
-I grew up in rural Poland. From my bedroom window, I could see apple trees, wheat fields and hills covered by forests. I spent many summer weekends mowing our house lawn or mountain biking. The winter months were more computer time, where I saw the explosive growth of this industry unwinding in front of my own eyes. 
-I studied electronic engineering in Polish, my native language, at the University of Science and Technology in Wroclaw, Poland. After graduation, I briefly worked in Poland, but in search of something NEW, in 2007, I packed my bag, and with one thousand dollars in my pocket, I boarded a low-cost airline plane to London Gatwick. My first few years in global and diverse London were like drinking from a fire hose, and this experience was only amplified after I got a job at Bloomberg, a fast-growing, multicultural, incredibly successful US company.
+# Three things get my energy going
+## Building
+Computer code is the tool I am most competent with, but I have also built things in the physical world (ask me about the experience of building a kitchen for my wife if you are looking for a great conversation starter). 
 
-## Professional
-I still remember my first weeks at Bloomberg. The office was like no other I had seen before. There was a constant sound of Bloomberg News in the background, frequently interrupted by prospective sales announcements. There were screens on every floor showing the faces of new joiners and the number of Bloomberg Terminals sold this year. In the first two weeks after joining my team, I wrote and released my code to production, which would take months, if not years, in the other companies I have worked with before. It felt like I had boarded a rocket ship.
+In my professional life, I designed and built a variety of products, mainly for financial professionals, but not only. The list includes things like order, risk, and portfolio analytics REST APIs, large-scale enterprise trading systems, hedge accounting software, Bloomberg Terminal OVML<GO> derivatives calculator, financial stock exchange connectors and parsers, Siemens set-top boxes, and PURE internet-connected radios.
 
-My journey at Bloomberg has been an intense learning experience, providing firsthand insights into the dynamics of lasting companies. I've witnessed the power of scale, network effects, vertical integration, and the impact of customer-centricity. Even though we are now more than 40 years old company, we are not done yet.
+In my work, I set high standards and enjoy sweeting the details — if something is worth doing, it is worth doing well.
 
-It remains DAY ONE.
+## Investing
+My investment strategy can be described as global equity with an infinite holding period. Sales that happen sometimes are an admission of error. The portfolio is concentrated with less than fifteen holdings, and purchases are done infrequently. I enjoy figuring out businesses, and when I find one per year that I can understand and feel excited about its future prospects, that is a good year. 
 
-# Running and Reading
-> “The keys to life are running and reading. When you're running, there's a little person that talks to you and says, "Oh I'm tired. My lung's about to pop. I'm so hurt. There's no way I can possibly continue." You want to quit. If you learn how to defeat that person when you're running. You will learn how to not quit when things get hard in your life. For reading: there have been gazillions of people that have lived before all of us. There's no new problem you could have--with your parents, with school, with a bully. There's no new problem that someone hasn't already had and written about it in a book.”
-― Will Smith
+An extra benefit of benign value investors is the community surrounding the activity. The activity attracts people with principles and values similar to mine, and I enjoy meeting them during Berkshire Hathaway shareholders meetings in Omaha, VALUEx, and [RV Capital investors meeting](https://youtu.be/8dscb_O7Hw0) in Switzerland.
 
-I love running and enjoy reading [books](bookshelf), blogs, newspapers, transcripts, annual reports, letters, memos, blogs.
+# Biking
+I grew up in a small village in Poland. I could see apple trees, fields, and hills covered by forests from my bedroom window. I spent many summer weekends [cross-country biking](https://youtu.be/5AMuD66m2jk) in the nearby woods and hills. Through the years, I have tried surfing, sailing, dancing, piano, diving, motorbiking, and travelling, but mountain biking is the only activity I return to yearly. And in winter, when it is too cold to go biking, I enjoy [skiing](https://www.youtube.com/watch?v=_oj6WU6JMgQ). 
 
-# Contact
-You can find me on LinkedIn [@MichalSujka](https://www.linkedin.com/in/michalsujka/) and Twitter [@MichalSujka](https://twitter.com/MichalSujka). I am open to connect with everyone so feel free to reach out!
+# Getting in touch
+The easiest way to get in touch with me electronically is via LinkedIn. I am open to connect with everyone so don’t hesitate to reach out [@MichalSujka](https://www.linkedin.com/in/michalsujka/)
+
+Every year I attend some events in person and it is a great opportunity to connect with me in person. I typically attend [RV Capital](https://www.rvcapital.ch/) investors meeting in Engelberg, Switzerland, the [Berkshire Hathaway Annual Shareholders Meeting](https://www.berkshirehathaway.com/sharehold.html) in Omaha, USA, [AWS Summit London](https://aws.amazon.com/events/summits/emea/london/), and [APIdays London](https://www.apidays.global/london/). 
