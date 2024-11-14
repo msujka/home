@@ -8,7 +8,7 @@ I'm Michał, pronounced as Me-how.
 ## Building
 Computer code is the tool I am most competent with, but I have also built things in the physical world (ask me about the experience of building a kitchen for my wife if you are looking for a great conversation starter). 
 
-In my professional life, I designed and built a variety of products, mainly for financial professionals, but not only. The list includes things like order, risk, and portfolio analytics REST APIs, large-scale enterprise trading systems, hedge accounting software, Bloomberg Terminal OVML<GO> derivatives calculator, financial stock exchange connectors and parsers, Siemens set-top boxes, and PURE internet-connected radios.
+In my professional life, I designed and built a variety of products, mainly for financial professionals, but not only. The list includes things like REST APIs for wealth management and investment banking, large-scale enterprise trading systems, hedge accounting software, Bloomberg Terminal OVML<GO> derivatives calculator, financial stock exchange connectors and parsers, Siemens set-top boxes, and PURE internet-connected radios.
 
 In my work, I set high standards and enjoy sweating the details — if something is worth doing, it is worth doing well.
 
